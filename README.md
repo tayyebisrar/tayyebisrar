@@ -24,6 +24,7 @@ Built with Django and ReactJS, the system identifies key concepts and terms, tra
 Currently integrating Hugging Face and spaCy models, with AWS S3 for cloud storage and JWT-secured user accounts.
 
 ## 🌐 Connect with me:
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://tayyebisrar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyeb-israr)  
 
 # 💻 Tech Stack:

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I’m a Computer Science student at the University of Leeds, where I'm pursuing a First Class Honours degree, with interests in **full-stack development**, **systems programming**, **performance optimisation**, and **AI/machine learning**.
 
 ## Currently working on:
-Arbitrary-precision floating point arithmetic in C and physics simulations (3 body problem) in Rust.
+Hypervisor R&D @ Nutanix (internship)
 
 ## 🌐 Connect with me:
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=white)](https://tayyebisrar.com)
